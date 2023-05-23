@@ -1,0 +1,20 @@
+header{
+    background-color: #E6E6E6;
+}
+h1{
+    color: #005677;
+    background-color: #C4C4C4; 
+    text-align: center;
+}
+.titulos {
+    background-color: #C4C4C4;
+}
+img {
+    background-color: #E6E6E6;
+    width: 150px; height: 150px;
+    ;
+}
+footer{ 
+    background-color: #005677; text-align: center;
+
+}
